@@ -1,0 +1,8 @@
+ITEMS:
+ - duct tape from the room right of the cell
+ - glass jar from the room right of the cell
+
+Getting rid of the guard
+ - Krakovitz can control his mind
+  - unlock the door
+   - follow him and touch the wiring

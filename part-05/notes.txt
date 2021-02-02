@@ -1,0 +1,26 @@
+ITEMS:
+ - compass in Sauerkraut's wardrobe
+ - shovel from a shop
+ - bible from Mother Constantine's corpse
+ - 40 coins + 45 coins from the pockets of trousers in pig farm
+
+Getting to the ambush site:
+ - There is a hidden motorcycle at coordinate 7o 24"
+
+Bury the father:
+ - Shovel on dirt
+ - 
+
+Motorcycle:
+ - front wheel
+  - behind the church
+ - spark plug
+  - from the shop
+ - gasoline
+  - from the pig farm
+
+Getting into the pig farm cabin
+ - Learn to talk to living with Krakovitz
+ - Lure the soldier near the door
+  - command to remove the latch
+  - command him to sleep

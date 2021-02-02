@@ -6,7 +6,7 @@ Coins:
  - viewpoint: two coins
  - market (with food truck)
   - three coins (collect them while Josef is not watching, or watching other direction)
- - Flammenbuch-48 (feed it an anti-fascist book from the basement) (12 coins)
+ - Flammenbuch-48 (feed it an anti-fascist book from the basement) (11 coins)
  - steal a tip from the tavern table (four coins) (use the record player to distract Herbert)
  - steal a tip from the tavern table (four coins) (use the record player to distract Herbert)
 
