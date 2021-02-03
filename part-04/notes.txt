@@ -5,6 +5,7 @@ ITEMS:
  - coins from the cabin table (after freeing Marcel)
  - coins from Sauerkraut's table (after getting the letter)
  - shovel from the shop (60 coins)
+  - You get more coins (30) from the cabin where the resistance will live
 
 
 Forest:

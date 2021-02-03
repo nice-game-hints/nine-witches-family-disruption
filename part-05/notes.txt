@@ -4,6 +4,8 @@ ITEMS:
  - bible from Mother Constantine's corpse
  - 40 coins + 45 coins from the pockets of trousers in pig farm
 
+ - 25 coins from Sauerkraut's table
+
 Getting to the ambush site:
  - There is a hidden motorcycle at coordinate 7o 24"
 
