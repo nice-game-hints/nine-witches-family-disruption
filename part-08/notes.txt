@@ -1,7 +1,0 @@
-ITEMS:
- - balloon from the feast (clown corpse)
-
-
-At the Feast site:
- - Power cord cannot be disconnected while the machine is runing
-
