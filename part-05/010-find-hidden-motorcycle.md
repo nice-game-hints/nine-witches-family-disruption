@@ -3,7 +3,7 @@ title: Find the motorcycle that the developers hid
 keywords: ambush, motorcycle, compass, wheel, gas
 ---
 
-The developers hid a motorcycle at coordinates 7^o 24".
+The developers hid a motorcycle at coordinates 7^o 24". ^[ Walk all the way left at the west bridge to meet the developers. ]
 
 # How to find coordinates?
 You would need *a navigation tool*. ^[ There is a compass in Sauerkraut's wardrobe. ]

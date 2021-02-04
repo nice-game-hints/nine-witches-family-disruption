@@ -21,10 +21,10 @@ Go forward with other story bits. You will get rich soon.
 Look around. The soldiers usually have lots of money.
 
 # Where?
-In the cabin with pigs and goats outside. [Get Akiro in there.](../030-enter-the-cabin.md)
+In the cabin with pigs and goats outside. You can visit it as Krakovitz. [Get Akiro in the cabin, also.](../030-enter-the-cabin.md)
 
 # He is in...
-Search the cabin. ^[ Go through both the pants. You get over 80 coins from there. ]
+Search the cabin. ^[ Go through both the trousers. You get over 80 coins from there. ]
 
-# I have 80 coins!
+# I have over 80 coins!
 Go buy the spark plug from the store.
