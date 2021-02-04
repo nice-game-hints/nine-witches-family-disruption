@@ -1,5 +1,5 @@
 ---
-title: Part 6 - The Eklipse Fest
+title: Part Six - The Eklipse Fest
 ---
 
 Finally, after [getting the invitations](/part-05/index.md), you get to the Eklipese Fest.

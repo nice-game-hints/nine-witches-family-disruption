@@ -1,5 +1,5 @@
 ---
-title: Part 5 - Invitations
+title: Part Five - Invitations
 ---
 
 You have to walk back to the ambush site. You can get to the ambush site from the west bridge.
