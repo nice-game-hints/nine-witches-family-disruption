@@ -1,4 +1,3 @@
 ---
-title: Part 8 - TBD
+title: Part 8 - The Beginning of the End
 ---
-[tbd](tbd)
