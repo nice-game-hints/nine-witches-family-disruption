@@ -18,7 +18,7 @@ Put some flammable stuff there and light it up.
 
 # Help me
  - Put some gasoline into the bowl ^[ There is a gas can in front of the tank on the eastern bridge. ]
- - Use matches on it ^[ You find a matchbox [in the crashed plane.](/part-09/050-plane/index.md) ]
+ - Use matches on it ^[ You find a matchbox [in the crashed plane.](/part-09/050-plane.md) ]
 
 # And then there was light!
 Nice, off to [the tunnels](010-tunnels.md)!
