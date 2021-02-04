@@ -9,5 +9,6 @@ Selenite's flower, Princess, is in really bad shape. You have to revive it using
 You know:
  - [Some fertilizer](010-fertilizer.md)
  - [Water](020-water.md)
- - And... stiffing lube? [tbd](tbd)
 
+# It is not stiff and upright enough
+[There's a way.](030-stiff.md)
