@@ -20,4 +20,4 @@ There was only *five* hens in the pile...
 There's four more somewhere! There's hope! Talk to Anton about this.
 
 # Four hens
-[Go find the hens.](020-four-hens.md)
+[Go find the hens.](020-four-hens/index.md)

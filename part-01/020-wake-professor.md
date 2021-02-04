@@ -2,7 +2,7 @@
 title: Wake up the professor
 ---
 
-There is no reason to wake up the professor. [Until there is...](01-phone.md)
+There is no reason to wake up the professor. [Until there is...](010-phone.md)
 
 # Prime minister!
 Go wake the professor!

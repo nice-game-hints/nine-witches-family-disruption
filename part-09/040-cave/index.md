@@ -2,7 +2,7 @@
 title: The dark cave
 ---
 
-After [getting over the minefield](030-minefield.md) you get into the dark cave.
+After [getting over the minefield](/part-09/030-minefield.md) you get into the dark cave.
 
 # It is so dark
 It is. Some light would be nice.
@@ -18,7 +18,7 @@ Put some flammable stuff there and light it up.
 
 # Help me
  - Put some gasoline into the bowl ^[ There is a gas can in front of the tank on the eastern bridge. ]
- - Use matches on it ^[ You find a matchbox [in the crashed plane.](050-plane/index.md) ]
+ - Use matches on it ^[ You find a matchbox [in the crashed plane.](/part-09/050-plane/index.md) ]
 
 # And then there was light!
 Nice, off to [the tunnels](010-tunnels.md)!

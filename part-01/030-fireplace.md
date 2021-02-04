@@ -3,7 +3,7 @@ title: The fireplace
 keywords: fanning, professor, bell
 ---
 
-The fireplace is slowing down. You would need to [get the professor's attention](02-wake-professor.md), first.
+The fireplace is slowing down. You would need to [get the professor's attention](020-wake-professor.md), first.
 
 # He is awake
 Well, he asked you to fan the living room fireplace.

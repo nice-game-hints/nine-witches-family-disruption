@@ -3,7 +3,7 @@ title: Opening the door
 keywords: prime minister, disorder, desk, key
 ---
 
-The prime minister is on the door ([after you fan the fireplace](03-fireplace.md)). The door is locked and you need to find the key.
+The prime minister is on the door ([after you fan the fireplace](030-fireplace.md)). The door is locked and you need to find the key.
 
 # How?
 Ask the professor.

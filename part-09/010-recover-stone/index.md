@@ -9,4 +9,4 @@ The sacred stone is in the moon!
 Maybe you should [contact Selenite](010-contact-selenite.md), the alien?
 
 # I visited him
-You need to [revive Princess](020-revive-princess/index.md).
+You need to [revive Princess](/part-09/060-revive-princess/index.md).
