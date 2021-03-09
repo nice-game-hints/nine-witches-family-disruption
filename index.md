@@ -3,6 +3,7 @@ title: "Nine Witches: Family Disruption"
 author: Juho Rutila
 keywords: nine, witches, family, disruption, okkult, supernatural, ancient
 praise: https://www.buymeacoffee.com/jrutila
+praiseModal: h10
 released: 2021-02-04
 ---
 
